@@ -1,0 +1,21 @@
+body {
+    margin: 15px 25px 45px 25px;
+    background-color: skyblue;
+    font-family: "Shadows Into Light";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+}
+h1 {
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+
+iframe {
+    margin: 15px 32% 15px 32%;
+    border: 2px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1.2rem;
+}
